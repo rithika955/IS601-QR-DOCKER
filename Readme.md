@@ -3,4 +3,6 @@
 
 ![alt text](myqr.png)
 
-# Refer app.log file in the logs directory for the logging info.
+# The below image shoes the log of the QR code being created.
+
+![alt text](logging.png)
